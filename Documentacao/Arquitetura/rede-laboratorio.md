@@ -6,20 +6,20 @@
 
 # 1. Objetivo
 
-Este documento define a estrutura de rede utilizada pelo CyberSecurityLabPro.
+Este documento define a estrutura de rede virtual utilizada pelo laboratório CyberSecurityLabPro.
 
-O objetivo é criar um ambiente controlado e isolado para estudos de:
+O objetivo é criar um ambiente seguro e isolado para estudos práticos de:
 
-- Segurança ofensiva.
-- Segurança defensiva.
-- Monitoramento.
-- Investigação forense.
-- Resposta a incidentes.
+- Red Team.
+- Blue Team.
+- SOC.
+- Forense Digital.
+- Resposta a Incidentes.
 
 ---
 
 # 2. Modelo de Rede
 
-O laboratório utilizará uma rede virtual isolada.
+A infraestrutura será baseada em uma rede virtual controlada.
 
 Modelo:
