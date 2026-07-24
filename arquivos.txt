@@ -1,0 +1,16 @@
+
+    Directory: C:\Users\clebe\Documents\CyberSecurityLabPro
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          23/07/2026    18:08                Ambiente
+d----          23/07/2026    17:56                BlueTeam
+d----          23/07/2026    18:06                Documentacao
+d----          23/07/2026    18:08                Ferramentas
+d----          23/07/2026    17:56                Forense
+d----          23/07/2026    17:59                RedTeam
+d----          23/07/2026    17:59                Relatorios
+d----          23/07/2026    18:02                SOC
+-a---          24/07/2026    15:29              0 arquivos.txt
+-a---          24/07/2026    15:29           1292 estrutura.txt
+

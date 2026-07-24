@@ -1,0 +1,62 @@
+Listagem de caminhos de pasta
+O número de série do volume é E385-1320
+C:.
+¦   estrutura.txt
+¦   
++---Ambiente
+¦   +---Kali
+¦   +---Linux
+¦   +---MaquinasVirtuais
+¦   +---Rede
+¦   +---Redes
+¦   +---ServidoresTeste
+¦   +---Windows
++---BlueTeam
+¦   +---Logs
+¦   +---Monitoramento
+¦   +---RespostaIncidente
+¦           playbook-resposta.md
+¦           
++---Documentacao
+¦   +---Arquitetura
+¦   ¦       arquitetura-lab.md
+¦   ¦       
+¦   +---Checklists
+¦   ¦       checklist-investigacao.md
+¦   ¦       
+¦   +---Politicas
+¦   ¦       politica-seguranca.md
+¦   ¦       
+¦   +---Procedimentos
+¦   ¦       resposta-incidente.md
+¦   ¦       
+¦   +---RelatoriosTecnicos
++---Ferramentas
+¦   +---Scripts
++---Forense
+¦   +---Analises
+¦   +---Evidencias
+¦   +---Laudos
+¦           laudo-caso-001.md
+¦           
++---RedTeam
+¦   +---AnaliseVulnerabilidade
+¦   +---Exploracao
+¦   +---PosExploracao
+¦   +---Reconhecimento
+¦   +---Relatorios
+¦   +---TestesAutorizados
++---Relatorios
++---SOC
+    +---Alertas
+    ¦       alertas.md
+    ¦       modelo-alerta.md
+    ¦       
+    +---Casos
+    ¦       caso-001-invasao.md
+    ¦       
+    +---Dashboards
+    +---Investigacoes
+    ¦       investigacao-modelo.md
+    ¦       
+    +---ThreatIntelligence
